@@ -1,4 +1,6 @@
-<div>
+<div align=center><img src="https://readme-typing-svg.herokuapp.com?color=%23000000&center=true&vCenter=true&multiline=true&height=60&lines=My+name+is+Zach+%E2%9C%A8;Welcome+to+my+GitHub+Repo"></div>
+<br>
+<div align=center>
     <img src=http://github-readme-streak-stats.herokuapp.com?user=multipletwigs&theme=github-dark&date_format=j%20M%5B%20Y%5D&background=0A2239&ring=53A2BE&stroke=1D84B5&dates=53A2BE)>
 </div>
 
