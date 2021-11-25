@@ -10,8 +10,8 @@
     <h4>Beginner Social Media Dashboard Challenge</h4>
     <img src="https://media.giphy.com/media/qSHxSnGhNFGDXFDPVI/giphy.gif">
 </div>
-<h3>GitHub Stats<h3>
+<!-- <h3>GitHub Stats<h3>
 <div>
     <img src=http://github-readme-streak-stats.herokuapp.com?user=multipletwigs&theme=github-dark&date_format=j%20M%5B%20Y%5D&background=0A2239&ring=53A2BE&stroke=1D84B5&dates=53A2BE>
-</div>
+</div> -->
 
