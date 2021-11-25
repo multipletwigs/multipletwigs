@@ -9,6 +9,7 @@
 <div>
     <h4>Beginner Social Media Dashboard Challenge</h4>
     <img src="https://media.giphy.com/media/qSHxSnGhNFGDXFDPVI/giphy.gif">
+    <img src="https://raw.githubusercontent.com/multipletwigs/multipletwigs/main/SocialMediaStas.svg">
 </div>
 <!-- <h3>GitHub Stats<h3>
 <div>
