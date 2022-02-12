@@ -2,8 +2,8 @@
 <h3>What am I doing now?</h3>
 🎐 I’m currently on my year two semester break after a long and hectic semester<br>
 🪔 I’m currently a student from Monash University studying Computer Science in Data Science<br>
-🔭 I’m currently part of a small team called <a href=https://monash.ureview.org/#/login>UReview</a><br>
-🌱 I’m currently learning <b>Angular</b> with <b>Tailwind CSS</b><br>
+<!-- 🔭 I’m currently part of a small team called <a href=https://monash.ureview.org/#/login>UReview</a><br>
+🌱 I’m currently learning <b>Angular</b> with <b>Tailwind CSS</b><br> -->
 <!-- <h3>GitHub Stats<h3>
 <div>
     <img src=http://github-readme-streak-stats.herokuapp.com?user=multipletwigs&theme=github-dark&date_format=j%20M%5B%20Y%5D&background=0A2239&ring=53A2BE&stroke=1D84B5&dates=53A2BE>
