@@ -2,6 +2,8 @@
 <h3>What am I doing now?</h3>
 🎐 I’m currently searching for internship opportunities from all over the world!<br>
 🪔 I’m currently a student from Monash University studying Computer Science in Data Science<br>
+🌱 I’m currently learning everything there is in Computer Science!<br>
+Feel free to explore my public repository!
 <!-- 🔭 I’m currently part of a small team called <a href=https://monash.ureview.org/#/login>UReview</a><br>
 🌱 I’m currently learning <b>Angular</b> with <b>Tailwind CSS</b><br> -->
 <!-- <h3>GitHub Stats<h3>
