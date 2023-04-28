@@ -3,11 +3,6 @@
 🎐 I’m currently searching for internship and software engineering opportunities from all over the world!<br>
 🪔 I’m currently a student from Monash University studying Computer Science in Data Science, going to graduate soon!<br>
 🌱 I’m currently learning everything there is in Computer Science!<br>
-Feel free to explore my public repository!
-<!-- 🔭 I’m currently part of a small team called <a href=https://monash.ureview.org/#/login>UReview</a><br>
-🌱 I’m currently learning <b>Angular</b> with <b>Tailwind CSS</b><br> -->
-<!-- <h3>GitHub Stats<h3>
-<div>
-    <img src=http://github-readme-streak-stats.herokuapp.com?user=multipletwigs&theme=github-dark&date_format=j%20M%5B%20Y%5D&background=0A2239&ring=53A2BE&stroke=1D84B5&dates=53A2BE>
-</div> -->
+
+Feel free to explore my public repository! I love contributing to open-source and having active discussions with developers all around the globe!
 
